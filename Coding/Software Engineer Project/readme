@@ -1,1 +1,3 @@
+My group and I created a shuttle tracking app using the agile process model and received the only A in the class. This app was made using Visual Studio code, Python, and Tkinter. This app had an interactive map, a scheduling feature, a notifications system, log in system, and movement simulation. This application was secure due to the implementation of input validation, using a database, and using a TLS while sending emails over a secure port. 
+
 

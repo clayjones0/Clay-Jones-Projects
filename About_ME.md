@@ -9,7 +9,7 @@
 - 💼 Holder of the **CompTIA Security+ Certification**, passionate about securing systems and data.  
 - 🚀 Actively building skills in **SOC operations**, **Threat analysis**, **Ethical Hacking**, and **Incident response** using letdefend.
 - 🛠️ Exploring **Python** and **SIEM tools** to automate and enhance cybersecurity processes.
-- 👀 Currently pursuing certifcations in Azure and Splunk!
+- 👀 Currently pursuing certifcations in **Azure** and **Splunk**!
 
 ---
 
